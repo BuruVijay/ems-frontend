@@ -14,7 +14,7 @@ A full-stack Employee Management System built with the MERN stack (MongoDB, Expr
   - View salary details
   - Track leave status
 
-## 🚀 Tech Stack
+## Tech Stack
 
 - **Frontend**: React, Tailwind CSS
 - **Backend**: Node.js, Express.js
